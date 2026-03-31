@@ -1,13 +1,10 @@
-# Digital Literacy Project – Student Digital Ambassador
-
-![Profile](https://img.shields.io/badge/Role-Student%20Digital%20Ambassador-blue)
-![Branch](https://img.shields.io/badge/Branch-B.Tech%20CSE%20(AI%20%26%20ML)-orange)
+# <p align="center"> Digital Literacy Project – Student Digital Ambassador </p>
 
 ## 👤 Student Details
-- **Name:** Keshav Maheshwari
-- **Registration Number:** 25BAI11223
-- **Branch:** B.Tech CSE (AI and ML)
-- **Year:** 1st Year  
+- **Name :** Keshav Maheshwari
+- **Registration Number :** 25BAI11223
+- **Branch :** B.Tech CSE (AI and ML)
+- **Year :** 1st Year  
 
 ---
 
@@ -20,12 +17,12 @@ As a **Student Digital Ambassador**, I spearheaded this project to advocate for 
 
 | Directory | Content |
 | :--- | :--- |
-| `Task-1/` | Infographic on Digital Literacy & Netiquette |
-| `Task-2/` | Professional profiles (GitHub, LinkedIn, Kaggle) |
-| `Task-3/` | Technical problem solving & community engagement |
-| `Task-4/` | Corporate communication frameworks |
-| `Task-5/` | Phishing case study & mitigation strategies |
-| `Report/` | Comprehensive project documentation |
+| `Task-1` | Infographic on Digital Literacy & Netiquette |
+| `Task-2` | Professional profiles (GitHub, LinkedIn, Kaggle) |
+| `Task-3` | Technical problem solving & community engagement |
+| `Task-4` | Corporate communication frameworks |
+| `Task-5` | Phishing case study & mitigation strategies |
+| `Report` | Comprehensive project documentation |
 
 ---
 
@@ -36,13 +33,13 @@ Designed a high-impact infographic using **Canva** to synthesize core digital li
 
 ### Task 2 – Digital Portfolio  
 Established a professional presence across industry-standard platforms to showcase technical growth and project milestones:
-* **GitHub:** [Keshav-25BAI11223](https://github.com/Keshav-25BAI11223)
-* **LinkedIn:** [KeshavxAI](https://www.linkedin.com/in/keshavxai/)
-* **Kaggle:** [Keshav11223](https://www.kaggle.com/keshav11223)
+* **GitHub :** [Keshav-25BAI11223](https://github.com/Keshav-25BAI11223)
+* **LinkedIn :** [Keshav Maheshwari](https://www.linkedin.com/in/keshavxai/)
+* **Kaggle :** [Keshav Maheshwari](https://www.kaggle.com/keshav11223)
 
 ### Task 3 – Platforms  
-* **Technical:** Resolved algorithmic challenges on **HackerRank** to strengthen programming logic.
-* **Engagement:** Developed a [Digital Literacy Assessment Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdpxMuWFjzpqwufwnhujHxWpAqh1r9Tr7nOsFwDye0Wc80jjQ/viewform?usp=publish-editor) to evaluate community awareness.
+* **Technical :** Resolved algorithmic challenges on **HackerRank** to strengthen programming logic.
+* **Engagement :** Developed a [Digital Literacy Assessment Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdpxMuWFjzpqwufwnhujHxWpAqh1r9Tr7nOsFwDye0Wc80jjQ/viewform?usp=publish-editor) to evaluate community awareness.
 
 ### Task 4 – Email Etiquette  
 Drafted specialized professional correspondence templates and created a **Social Media Integrity Checklist** to ensure a positive and professional digital footprint.
